@@ -35,6 +35,6 @@ For dev assessment
 
 `Tailwind CSS for faster prototyping a simple UI for the assessment`
 
-`The search feature for product can be added later on as the backend is ready to receive queries for that`
+`The search feature for product can be added later on as the backend is ready to receive search queries `
 
 
